@@ -23,7 +23,7 @@ template = "homepage.html"
 <div class="homepage-hero">
     <h1 class="homepage-hero-title">AlightSoulmate</h1>
     <p class="homepage-hero-subtitle">Hey there!👋 I'm a CS undergraduate and junior-level developer. My current interests include open source collaboration, web architecture, algorithmic problem solving, and developer tooling.<br/>
-    The site covers more than technical stuff - I write all sorts of things from my studies, work, and life. Feel free to check out /post for all the articles, or browse by /tags if you're looking for something specific.</p>
+    The site covers more than technical stuff - I write all sorts of things from my studies, work, and life. Feel free to check out <i>/posts</i> for all the articles, or browse by <i>/tags</i> if you're looking for something specific.</p>
 </div>
 
 <!-- # Pinned
