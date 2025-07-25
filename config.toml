@@ -1,0 +1,58 @@
+title = "AlightSoulmate"
+description = "I am a CS student and developer"
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+output_dir = "docs"
+# The URL the site will be built for
+base_url = "https://ucuan.cc"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+index_format = "elasticlunr_json"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+
+[extra]
+# Put all your custom variables here
+toc = true
+use_cdn = true
+theme = "toggle"
+favicon = "/icons/favicon.svg"
+comment = true
+
+socials = [
+    { name = "github", url = "https://github.com/AlightSoulmate", icon = "github" },
+    { name = "X", url = "https://x.com/alightsoulmates", icon = "x-twitter" },
+    { name = "bluesky", url = "https://bsky.app/profile/ucuan.bsky.social", icon = "bluesky" },
+]
+
+menu = [
+    { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/tags", url = "/tags", weight = 2 },
+    { name = "/about", url = "/about", weight = 3 },
+]
+
+#更全的Menu 用于未来采用
+#menu = [
+#    { name = "/posts", url = "/posts", weight = 1 },
+#    { name = "/projects", url = "/projects", weight = 2 },
+#    { name = "/tags", url = "/tags", weight = 3 },
+#    { name = "/about", url = "/about", weight = 4 },
+#    { name = "/talks", url = "/talks", weight = 5 },
+#]
+
+# See this for more options: https://github.com/not-matthias/apollo/blob/main/config.toml#L14
