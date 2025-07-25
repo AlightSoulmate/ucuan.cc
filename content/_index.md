@@ -31,5 +31,5 @@ template = "homepage.html"
 - none  -->
 
 <footer style="text-align: center; font-size: 0.85rem; color: #888; padding: 5px 0;">
-  Built by <a href="https://www.getzola.org/" target="_blank">Zola</a> and deployed with <a href="https://docs.github.com/zh/pages" target="_blank">GitHub Page</a>
+  Created with <a href="https://www.getzola.org/" target="_blank">Zola</a> and deployed via <a href="https://www.cloudflare.com/" target="_blank">Cloudflare Pages</a>
 </footer>
