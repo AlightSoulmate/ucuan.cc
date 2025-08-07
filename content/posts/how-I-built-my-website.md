@@ -60,7 +60,7 @@ git commit -m "Initialize | Add new blogs"
 git push
 ```
 
-After `git push` to Github repository, Cloudflare Pages will continue to execute the remaining processes.
+After `git push` to GitHub repository, Cloudflare Pages will continue to execute the remaining processes.
 
 # 4. Use Cloudflare for building and deploying
 
@@ -84,4 +84,4 @@ Additionally, DNS resolution, custom domain management, and global CDN accelerat
 
 # P.S.
 
-Before, I used github pages for deployment, so I need to create an empty `.nojekyll` file in the project root to disable GitHub Pages' default Jekyll processing and ensure the site is deployed as plain static assets. No such demand when using Cloudflare Page. If you plan to deploy the website using github pages, please refer to [the Github Pages Docs](https://docs.github.com/en/pages).
+Before, I used GitHub Pages for deployment, so I need to create an empty `.nojekyll` file in the project root to disable GitHub Pages' default Jekyll processing and ensure the site is deployed as plain static assets. No such demand when using Cloudflare Page. If you plan to deploy the website using GitHub Pages, please refer to [the Github Pages Docs](https://docs.github.com/en/pages).
