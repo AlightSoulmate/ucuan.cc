@@ -1,6 +1,6 @@
 +++
 
-title = "Personal Anniversary"
+title = "Eternal Personal Anniversary"
 date = 2025-07-24
 
 [taxonomies]

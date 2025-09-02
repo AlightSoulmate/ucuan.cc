@@ -1,6 +1,6 @@
 +++
 
-title = "My Twenties"
+title = "Notes from Twenty"
 date = 2025-09-02
 
 [taxonomies]

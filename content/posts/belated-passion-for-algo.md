@@ -1,6 +1,6 @@
 +++
 
-title = "My Passionate"
+title = "Belated Passion for Algo"
 date = 2025-07-23
 
 [taxonomies]
