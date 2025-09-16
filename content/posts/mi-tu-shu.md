@@ -27,6 +27,5 @@ comment = true
 </div>
 
 <p style="text-align:center; font-size: 0.9em; color: gray;">
-© 2025 AlightSoulmate. All rights reserved.  
 Original Chinese poem. Please do not reproduce without permission.
 </p>
