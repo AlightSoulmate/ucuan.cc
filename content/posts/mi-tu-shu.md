@@ -1,6 +1,6 @@
 +++
 
-title = "Eternal Personal Anniversary"
+title = "Shadows of Youth | Chinese Verse"
 date = 2025-09-16
 
 [taxonomies]
