@@ -25,3 +25,8 @@ comment = true
 遥遥无期不过百，愿做鱼竿客照归。
 
 </div>
+
+<p style="text-align:center; font-size: 0.9em; color: gray;">
+© 2025 AlightSoulmate. All rights reserved.  
+Original Chinese poem. Please do not reproduce without permission.
+</p>
