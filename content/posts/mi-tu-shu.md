@@ -4,7 +4,7 @@ title = "Shadows of Youth | Chinese Verse"
 date = 2025-09-16
 
 [taxonomies]
-tags=["mind"]
+tags=["creative writing"]
 
 [extra]
 repo_view = true
