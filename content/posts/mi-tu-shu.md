@@ -14,7 +14,6 @@ comment = true
 
 <div style="text-align:center;white-space:pre-line;font-family:'KaiTi','STKaiti',serif;font-size:18px;line-height:1.8;">
 迷途书
-
 芳年不识雪中炭，老境才知事有穷。
 故府重临忆往事，孤园独步听残风。
 良辰美景曾共见，得意忘言各自逢。
