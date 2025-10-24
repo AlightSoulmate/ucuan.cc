@@ -1,10 +1,14 @@
 +++
 
-title = "Triggered by a Teacher" date = 2025-10-24
+title = "Triggered by a Teacher" 
+date = 2025-10-24
 
-[taxonomies] tags=["mind"]
+[taxonomies] 
+tags=["mind"]
 
-[extra] repo_view = true comment = true
+[extra] 
+repo_view = true 
+comment = true
 
 +++
 
